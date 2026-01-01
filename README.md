@@ -164,6 +164,7 @@ ui/
  ├── style.css
  └── script.js
 
+
 🔗 API Endpoints
 | Method | Endpoint            | Purpose           |
 | ------ | ------------------- | ----------------- |
@@ -190,6 +191,7 @@ DCA-AI-Management/
 ├── docs/
 ├── requirements.txt
 └── README.md
+
 
 ⚙️ Installation & Run
 git clone <repo-url>
